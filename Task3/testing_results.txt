@@ -1,0 +1,6 @@
+Text cleaning: PASS
+TF-IDF train/test dimensions: PASS
+Predicted labels in known category set: PASS
+Invalid/empty input handling: PASS
+Representative sample predictions: PASS
+Saved artifact reload: PASS
